@@ -5,9 +5,7 @@ import './App.css'
 import SearchIcon from './search.svg'
 
 
-// API key 7a9f2fcc
-
-const API_URL = 'http://www.omdbapi.com?apikey=7a9f2fcc'; 
+const API_URL = 'https://www.omdbapi.com?apikey=7a9f2fcc'; 
 
 const movie1 = {
     "Title": "The Blacklist",
